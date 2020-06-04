@@ -1,2 +1,12 @@
 /* You can add global styles to this file, and also import other style files */
 @import "~bootstrap/scss/bootstrap.scss";
+
+.textJustify{
+    text-align: justify;
+}
+
+.linha {
+    border-bottom: 1px solid #d8d3d3;
+    margin: 25px 0 25px;
+    padding-top: 20px;
+    }
